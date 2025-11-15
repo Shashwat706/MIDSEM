@@ -91,9 +91,10 @@ fi
 
 Output:
 
-<p align="center">
-<img src="img/out1.png" width="900">
-</p>
+<img width="1221" height="917" alt="Screenshot 2025-11-15 173043" src="https://github.com/user-attachments/assets/b19303e4-ea03-4405-a501-abcbe33987d8" />
+
+
+
 
 #### Exercise 2: Scheduling the Script
 
@@ -112,15 +113,8 @@ crontab -e
 
 Output:
 
-<p align="center">
-<img src="img/out2.png" width="900">
-</p>
+<img width="1125" height="600" alt="Screenshot 2025-11-15 171503" src="https://github.com/user-attachments/assets/88f31e08-3785-407a-9e92-9f5fb3763acc" />
 
-**Final Output**:
-
-<p align="center">
-<img src="img/out3.png" width="900">
-</p>
 
 
 
