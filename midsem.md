@@ -113,8 +113,7 @@ crontab -e
 
 Output:
 
-<img width="1125" height="600" alt="Screenshot 2025-11-15 171503" src="https://github.com/user-attachments/assets/88f31e08-3785-407a-9e92-9f5fb3763acc" />
-
+<img width="1003" height="675" alt="image" src="https://github.com/user-attachments/assets/fed1d61f-c82c-406a-b326-7f6c25cbc5fa" />
 
 
 
